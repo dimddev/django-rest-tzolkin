@@ -31,9 +31,9 @@ if sys.argv[-1] == 'publish':
 
 
 setup(
-    name='djangorestframework-tzolkin',
+    name='django-rest-tzolkin',
     version=version,
-    url='http://github.com/dimddev/django-rest-framework-tzolkin',
+    url='http://github.com/dimddev/django-rest-tzolkin',
     license='BSD',
     description='Long Count, Haab and Tzolkin support for Django REST framework',
     author='Dim Mitar Hakini',
