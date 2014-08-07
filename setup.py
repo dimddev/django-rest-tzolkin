@@ -34,7 +34,7 @@ setup(
     name='django-rest-tzolkin',
     version=version,
     url='http://github.com/dimddev/django-rest-tzolkin',
-    license='BSD',
+    license='GPL',
     description='Django-Rest API for convert: Gregorian, Long Count, Haab and Tzolkin dates',
     author='Dim Mitar Hakini',
     author_email='dmhakini@gmail.com',
