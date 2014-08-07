@@ -1,4 +1,4 @@
-Gregorian, Long Count, Haab, Tzolkin calclulator
+Django-Rest API for convert: Gregorian, Long Count, Haab and Tzolkin dates
 Copyright (C) 2014  Dim Mitar Hakini
 
 This program is free software: you can redistribute it and/or modify
