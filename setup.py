@@ -17,7 +17,7 @@ def get_version(package):
     ).group(1)
 
 
-version = get_version('base/apps/tzolkin')
+version = get_version('tzolkin')
 
 
 if sys.argv[-1] == 'publish':
