@@ -16,7 +16,7 @@ Install using ``pip``:
 
 .. code-block:: bash
 
-    $ git clone git@github.com:lpomfrey/django-rest-framework-plist.git
+    $ git clone https://github.com/dimddev/django-rest-tzolkin
 
 Djanto and Django-Rest-Framework are required packages
 
