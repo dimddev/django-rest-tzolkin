@@ -1,6 +1,7 @@
 =============================
 
-Django Rest API for convert Mesoamerican Long Count calendar `<http://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar>`_ to Gregorian `http://en.wikipedia.org/wiki/Gregorian_calendar`_ dates
+Django Rest API for convert Mesoamerican Long Count calendar `<http://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar>`_ 
+to Gregorian `<http://en.wikipedia.org/wiki/Gregorian_calendar>`_ dates
 
 Installation
 ------------
