@@ -33,7 +33,7 @@ Usage
 
 Tzolkin2Gregorian Converter means that will convert long count date in format baktun.katun.tun.uinal.kin (13.0.0.0.0) to gregorian date 2012-12-21 (Y-m-d)
  
-exmaple url and long count:
+example url and long count:
 http://your_test_ip/API/v1/ancient/calendars/mayan/tzolkin2gregorian?date=13.0.0.0.0
 JSON result
 
@@ -45,4 +45,4 @@ example url and gregorian date in format Ymd
 http://your_test_ip/API/v1/ancient/calendars/mayan/gregorian2tzolkin?date=20011012
 JSON result
 
-So that's all, have funt with The Tzolkin or Sacred Mayan Calendar : )
+So that's all, have fun with The Tzolkin or Sacred Mayan Calendar : )
