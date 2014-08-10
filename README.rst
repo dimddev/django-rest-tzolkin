@@ -18,7 +18,7 @@ Install using ``pip``:
 
     $ git clone https://github.com/dimddev/django-rest-tzolkin
 
-Djanto and Django-Rest-Framework are required packages
+Django and Django-Rest-Framework are required packages
 
 
 Config
