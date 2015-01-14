@@ -11,13 +11,7 @@ class TzolkinSerializer(serializers.Serializer):
     date = serializers.DateTimeField()
 
     def restore_object(self, attrs, instance=None):
-        """
-        Create or update a new snippet instance, given a dictionary
-        of deserialized field values.
 
-        Note that if we don't define this method, then deserializing
-        data will simply return a dictionary of items.
-        """
         if instance:
             # Update existing instance
             instance.long_count = attrs.get('long_count', instance.long_count)
