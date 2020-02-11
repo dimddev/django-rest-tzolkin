@@ -39,7 +39,7 @@ setup(
     author='Dim Mitar Hakini',
     author_email='dmhakini@gmail.com',
     packages=find_packages(),
-    install_requires=['Django==1.6', 'djangorestframework==3.9.1'],
+    install_requires=['Django==1.11.28', 'djangorestframework==3.9.1'],
     test_suite='runtests.runtests',
     classifiers=[
         'Development Status :: 4 - Beta',
